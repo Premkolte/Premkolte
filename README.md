@@ -75,19 +75,16 @@
 ###
 
 <div align="left">
-  <a href="https://linktr.ee/PremKolte" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/prem-kolte/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/PremKolte26" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/kolte_prem_26/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="https://twitter.com/premkolte26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="premkolte26" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/prem-kolte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-kolte" height="30" width="40" /></a>
+  <a href="https://instagram.com/premkolte26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="premkolte26" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/premkolte26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="premkolte26" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/premkolte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="premkolte" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/premkolte26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="premkolte26" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/premkolte26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="premkolte26" height="30" width="40" /></a>
+  </p>
 </div>
 
 ###
