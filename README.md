@@ -12,7 +12,6 @@
 ###
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=premkolte&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <p align="left"> <a href="https://twitter.com/premkolte26" target="blank"><img src="https://img.shields.io/twitter/follow/premkolte26?logo=twitter&style=for-the-badge" alt="premkolte26" /></a> </p>
 </div>
 
 ###
