@@ -101,6 +101,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://pbs.twimg.com/media/GHmt8aEawAALf7i?format=png&name=small"  />
+<img align="center" height="200" src="https://pbs.twimg.com/media/GHmt8aEawAALf7i?format=png&name=small"  />
 
 ###
