@@ -1,10 +1,5 @@
-<h1 align="left">Hi 👋!</h1>
-
-###
-
-<h1 align="left">My name is Prem Kolte and I'm a Passionate Developer from Goa</h1>
-
-###
+<<h1 align="center">Hi 👋, I'm Prem Kolte</h1>
+<h3 align="center">A passionate Frontend Developer from Goa, India</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=premkolte&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
