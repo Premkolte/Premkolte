@@ -1,7 +1,16 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1484745326926110720/1710215266/1500x500)
 ###  
-<h1 align="center">  Hi 👋, I'm Prem Kolte </h1> 
+<h1 align="center">  Hi 👋, I'm Prem Kolte </h1>
 <h3 align="center"> A passionate Frontend Developer from Goa, India</h3>  
+
+### 💫 About Me
+- 🎓 I'm a Student and Web Developer.
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning DSA.
+- 👯 I’m looking to collaborate with open-source enthusiasts.
+- 🥅 2024 Goals: Learn MERN Stack, Nextjs And strengthen DSA.
+
+<br>
  
 ###  
 <div align="center">
