@@ -50,7 +50,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui"/>
     <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
 </div>
-
+ 
 <h2 align="center">⚙️ Backend ⚙️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,django,nginx,redis,kafka,prisma" />
