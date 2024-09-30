@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </div>
 
-<h2 align="center">🎨 Frontend 🎨</h2>
+<h2 align="center">🎨 Frontend 🎨</h2> 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui"/>
     <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
