@@ -29,7 +29,7 @@
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=premkolte&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=premkolte&theme=radical">
 
-</div><br>
+</div><br>  
 
 # 🏆 Trophies
 
