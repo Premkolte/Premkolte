@@ -82,6 +82,13 @@
   
 </div>
 
+<h2 align="center">Leetcode Info<h2>
+ 
+<p align="center">
+  
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/premkolte26?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
+
+</p>
 
 ###
 
