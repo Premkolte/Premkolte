@@ -66,7 +66,7 @@
     </td>
     <td align="center">
       <a href="https://quine.sh?utm_source=widgets&utm_campaign=Premkolte">
-        <img align="center" src="https://stats.quine.sh/Premkolte/topics-over-time?theme=dark" height="270em" alt="GitHub Topics Over Time" />
+        <img align="center" src="https://stats.quine.sh/Premkolte/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
       </a>
     </td>
   </tr>
