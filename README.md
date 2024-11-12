@@ -46,15 +46,45 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
 </a>
 </div>
 </details>
    
 ### 
+
+## :zap: My GitHub-Quine Stats 🖤
+<table align="center">
+  <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=Premkolte">
+        <img align="center" src="https://stats.quira.sh/Premkolte/github?theme=dark" height="280em" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=Premkolte">
+        <img align="center" src="https://stats.quine.sh/Premkolte/dependencies?theme=dark" height="280em" alt="GitHub Dependencies" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=Premkolte">
+        <img align="center" src="https://stats.quine.sh/Premkolte/topics-over-time?theme=dark" height="270em" alt="GitHub Topics Over Time" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=Premkolte">
+        <img align="center" src="https://stats.quine.sh/Premkolte/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+###
 
 <h2 align="center">📚 My Stack 📚</h2>
 <div align="center">
