@@ -132,13 +132,19 @@
   
 </div>
 
-<h2 align="center">Leetcode Info<h2>
- 
-<p align="center">
-  
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/premkolte26?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
+## :zap: My LeetCode Stats 📊
+<div align="center">
+  <a href="https://leetcode.com/UTSAVS26">
+    <!-- LeetCode Stats -->
+    <img align="center" src="https://leetcard.jacoblin.cool/premkolte26?ext=heatmap" height="300em" alt="LeetCode Stats" />
+  </a>
+</div>
 
-</p>
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+  <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; some of the repositories!</h3>
+</div>
 
 ###
 
