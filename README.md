@@ -134,7 +134,7 @@
 
 ## :zap: My LeetCode Stats 📊
 <div align="center">
-  <a href="https://leetcode.com/UTSAVS26">
+  <a href="https://leetcode.com/premkolte26">
     <!-- LeetCode Stats -->
     <img align="center" src="https://leetcard.jacoblin.cool/premkolte26?ext=heatmap" height="300em" alt="LeetCode Stats" />
   </a>
