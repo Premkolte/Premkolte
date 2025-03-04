@@ -3,7 +3,7 @@
 <h1 align="center">  Hi 👋, I'm Prem Kolte </h1>                
 <h3 align="center">  A passionate Frontend Developer from Goa, India</h3>  
       
-### 💫 About Me     
+### 💫 About Me      
 - 🎓 I'm a Student and Web Developer.  
 - 🔭 I’m currently working on Web Development.   
 - 🌱 I’m currently learning DSA.     
