@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning DSA.     
 - 👯 I’m looking to collaborate with open-source enthusiasts. 
 - 🥅 2024 Goals: Learn MERN Stack, Nextjs And strengthen DSA.
-
+  
 <br>   
      
 ###  
