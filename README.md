@@ -2,15 +2,15 @@
 ###              
 <h1 align="center">  Hi 👋, I'm Prem Kolte </h1>                   
 <h3 align="center">  A passionate Frontend Developer from Goa, India</h3>  
-<h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
            
  💫 About Me                
 - 🎓 I'm a Student and Web Developer.   
 - 🔭 I’m currently working on Web Development.   
 - 🌱 I’m currently learning DSA.     
 - 👯 I’m looking to collaborate with open-source enthusiasts. 
-- 🥅 2024 Goals: Learn MERN Stack, Nextjs And strengthen DSA.
+- 🥅 2025 Goals: Learn MERN Stack, Nextjs And strengthen DSA.
   
+<h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
 <br>   
      
 ###  
