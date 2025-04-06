@@ -4,7 +4,7 @@
 <h3 align="center">  A passionate Frontend Developer from Goa, India</h3>  
 <h2 align="center"> It’s not over, until I win. 🎯</h2>
            
-### 💫 About Me                
+ 💫 About Me                
 - 🎓 I'm a Student and Web Developer.   
 - 🔭 I’m currently working on Web Development.   
 - 🌱 I’m currently learning DSA.     
