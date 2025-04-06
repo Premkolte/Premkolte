@@ -2,7 +2,7 @@
 ###              
 <h1 align="center">  Hi 👋, I'm Prem Kolte </h1>                   
 <h3 align="center">  A passionate Frontend Developer from Goa, India</h3>  
-<h2 align="center"> It’s not over, until I win. 🎯</h2>
+<h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
            
  💫 About Me                
 - 🎓 I'm a Student and Web Developer.   
