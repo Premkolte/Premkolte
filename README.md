@@ -5,7 +5,7 @@
                
  💫 About Me                   
 - 🎓 I'm a Student and Web Developer.   
-- 🔭 I’m currently working on Web Development.   
+- 🔭 I’m currently working on Web Development.    
 - 🌱 I’m currently learning DSA.     
 - 👯 I’m looking to collaborate with open-source enthusiasts. 
 - 🥅 2025 Goals: Learn MERN Stack, Nextjs And strengthen DSA.
