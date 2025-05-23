@@ -134,12 +134,17 @@
 </div>
 
 ## :zap: My LeetCode Stats 📊
-<div align="center">
-  <a href="https://leetcode.com/premkolte26">
-    <!-- LeetCode Stats -->
-    <img align="center" src="https://leetcard.jacoblin.cool/premkolte26?ext=heatmap" height="300em" alt="LeetCode Stats" />
-  </a>
-</div>
+<h3 align="left">Leetcode Stats:</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/premkolte26?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
+    </td> 
+    <td>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=premkolte26&theme=dark&border=border&animated=true" alt="LeetCode Badges">
+    </td>
+  </tr>
+</table>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
