@@ -81,7 +81,7 @@
         <img align="center" src="https://stats.quine.sh/Premkolte/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
       </a>
     </td>
-  </tr> -->
+  </tr> 
 </table> -->
 
 <div align="center">
