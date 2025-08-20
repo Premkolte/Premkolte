@@ -12,10 +12,12 @@
 <h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
 <br>    
      
-###  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/premkolte/count.svg?" start="1000" />
-</div>      
+
+<!--   <img src="https://profile-counter.glitch.me/premkolte/count.svg?" start="1000" /> -->
+<!-- </div>  -->
+
+## Open Source Project
+![premkolte trophies](https://github-readme-stats.vercel.app/api/pin/?username=premkolte&theme=radical&repo=AnimateHub)    
 
 ## 📊 GitHub Stats:   
     
