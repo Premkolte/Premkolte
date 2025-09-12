@@ -2,7 +2,7 @@
 <h1 align="center">  Hi There <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Prem Kolte </h1>                 
 <h3 align="center">  A passionate Frontend Developer from Goa, India</h3>       
                      
- 💫 About Me                      
+ 💫 About Me                       
 - 🎓 I'm a Student and Web Developer.        
 - 🔭 I’m currently working on Web Development.   
 - 🌱 I’m currently learning DSA.       
